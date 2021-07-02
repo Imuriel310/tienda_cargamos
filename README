@@ -1,5 +1,5 @@
-para correr el pryecto es necesario:
-  - crear un enviorment python
+para correr el proyecto es necesario:
+  - crear un enviroment python
   - instalar flask
   - instalar flask-restx
   - instalar psycog2

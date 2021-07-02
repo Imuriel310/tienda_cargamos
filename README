@@ -1,0 +1,7 @@
+para correr el pryecto es necesario:
+  - crear un enviorment python
+  - instalar flask
+  - instalar flask-restx
+  - instalar psycog2
+  - tener postgresql instalado
+  - crear una base de datos llamada cargamos
